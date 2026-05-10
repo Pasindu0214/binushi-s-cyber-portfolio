@@ -74,9 +74,7 @@ function Hero() {
 
       <div className="hero-content relative max-w-6xl mx-auto px-6 py-24 md:py-32 grid md:grid-cols-[1.25fr_0.85fr] gap-12 items-center">
         <div className="hero-left">
-          <div className="hero-badge inline-flex items-center gap-2 glass rounded-full px-4 py-1.5 text-xs text-primary mb-6">
-            <Sparkles className="w-3.5 h-3.5" /> IT4070 — Preparing for Professional World
-          </div>
+          
 
           <h1 className="hero-title text-5xl md:text-7xl font-bold leading-[1.05] tracking-tight">
             Binushi <span className="gradient-text">Dimandi</span>
@@ -653,9 +651,7 @@ function Footer() {
             <Printer className="w-4 h-4" /> Export / Print Portfolio
           </button>
 
-          <p className="text-xs text-muted-foreground mt-4 italic">
-            Prepared for IT4070 — Preparing for Professional World
-          </p>
+          
         </div>
       </div>
 
